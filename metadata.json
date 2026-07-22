@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Acente Ziyaret Yönetimi - Anadolu Sigorta",
+  "description": "Anadolu Sigorta saha temsilcileri için yapay zeka destekli acente ziyaret yönetimi ve CRM platformu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
